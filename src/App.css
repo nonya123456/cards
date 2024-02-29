@@ -1,0 +1,21 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.card {
+  width: 80vw;
+  height: 112vw;
+
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  text-align: center;
+}
+
+.card p {
+  font-size: 10vw;
+  font-weight: bold;
+  color: black;
+}
